@@ -1,6 +1,6 @@
 # VidFlow
 
-![Imagen de portada del curso. El título es "3519 - Node.js y terminal" y el subtítulo es "Dominando el entorno de desarrollo front-end".](./thumb.png)
+![Imagen de portada del curso. El título es "2161 - Node.js y terminal" y el subtítulo es "Dominando el entorno de desarrollo front-end".](./thumb.png)
 
 VidFlow es una plataforma de compartición de videos.
 
@@ -23,7 +23,7 @@ Para ello, aprenderemos a utilizar **Node.js**, necesario para aplicar todas est
 
 ## Enlace de Figma
 
-[Accede al Figma de VidFlow](https://www.figma.com/file/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0%3A1&mode=dev).
+[Accede al Figma de VidFlow](https://www.figma.com/design/cIHRlWrGsURWOJWiNtcukN/VidFlow-%7C-Curso-Js---Consumiendo-datos-de-una-API?node-id=0-1&p=f&t=WITQunw1SspUTqCL-0).
 
 ## 🛠️ Cómo abrir y ejecutar el proyecto
 
@@ -45,4 +45,4 @@ Luego, abre `index.html` en el navegador y ¡VidFlow estará listo para usarse!
 
 ## 📚 Más información sobre el curso
 
-Este repositorio avanza hasta la implementación de ESLint y Prettier, pero aún no incluye el uso de Vite con Axios. Para utilizar Vite, fue necesario migrar el código a un nuevo proyecto, que puedes encontrar en [este repositorio](https://github.com/alura-cursos/3519-nodejs-vidflow-vite).
+Este repositorio avanza hasta la implementación de ESLint y Prettier, pero aún no incluye el uso de Vite con Axios. Para utilizar Vite, fue necesario migrar el código a un nuevo proyecto, que puedes encontrar en [este repositorio](https://github.com/alura-cursos/2161-nodejs-vidflow-vite).
